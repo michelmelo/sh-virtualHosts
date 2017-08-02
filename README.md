@@ -1,2 +1,2 @@
 # sh-virtualHosts
-create virtualhost
+shell script to generate a new virtual host
